@@ -1,8 +1,8 @@
 # yatline-page-counter.yazi
 An addon to display the page count of documents in your [yatline.yazi](https://github.com/imsi32/yatline.yazi).
 
-!(https://github.com/PepeRoConde/yatline-page-counter.yazi/image.png)
-
+[!(https://github.com/PepeRoConde/yatline-page-counter.yazi/image.png)
+](https://github.com/PepeRoConde/yatline-page-counter.yazi/blob/main/image.png)
 ## Requirements
 - [yazi](https://github.com/sxyazi/yazi) version >= 0.4.0
 - [yatline.yazi](https://github.com/imsi32/yatline.yazi)
